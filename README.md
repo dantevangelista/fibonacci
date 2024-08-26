@@ -1,5 +1,5 @@
 # Fibonacci
-Solves power summation of the Fibonacci sequence
+Solves power summation for Fibonacci sequence
 
 F(n) = 1, 1, 2, 3, 5, ...
 
